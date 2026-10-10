@@ -22,4 +22,4 @@ firstStr=input('Enter first string: ')
 print(firstStr)
 c=firstStr.upper()
 
-print("Upper case of your string is: ",c)
+print("Upper case of your string is: ",c)333333333333333333333333333333333333333333333333333333333333
